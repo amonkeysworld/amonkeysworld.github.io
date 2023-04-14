@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: A Monkey's World
+title: Monkeyology
 description: A girly environmental science blog
 keywords: blog, environmental science
 baseurl:  /homepage # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Hi, I'm Nikki, the girl behind this website and the Monkey's World podcast. Thanks for tuning in! Email me or send a DM on Instagram if you have any questions.  # Describe yourself.
+  desc: Hi, I'm Nikki, the girl behind this website and the Monkeyology podcast. Thanks for tuning in! Email me or send a DM on Instagram if you have any questions.  # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
