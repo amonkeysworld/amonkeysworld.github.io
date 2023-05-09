@@ -29,6 +29,7 @@ author:  # change following line to your infomation.
     - name: fa-linux
     - name: icon-apache
   desc: Hi, I'm Nikki, the girl behind this website and the Monkeyology podcast. Thanks for tuning in! Email me or send a DM on Instagram if you have any questions.  # Describe yourself.
+  monkeyologydesc: Monkeyology is a project I created to talk about environmental science (and to do it in a girly way, of course). This is in an effort to show that femininity and analytical ability are not exclusive of each other, and embracing who you are in a world that frowns upon it results in amazing things. You can check out the accompanying podcast on Apple Podcasts or read the Monkeyology blog here!
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
