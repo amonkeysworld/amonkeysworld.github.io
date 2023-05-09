@@ -4,7 +4,7 @@ title:  "The Driving Force Behind Environmental Science"
 date:   2023-04-27
 desc: "What's the unifying idea behind all environmental science discourse?"
 keywords: "website,blog"
-categories: [Nikki's Takedown]
+categories: [Nikki's takedown]
 tags: [Opinion]
 icon: icon-html
 ---
