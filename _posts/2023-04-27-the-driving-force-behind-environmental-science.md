@@ -6,7 +6,7 @@ desc: "What's the unifying idea behind all environmental science discourse?"
 keywords: "website,blog"
 categories: [Nikki's takedown]
 tags: [Opinion]
-icon: icon-html
+icon: icon-nikkistakedown
 ---
 
 With all the topics I have learned in environmental science, there is one concept that unites them all. It explains why people make the environmental choices they do; even more than that, it explains how animals like monkeys interact with each other, why I study for hours some days and others I listen to music and daydream instead, and where the motives behind the rapper Logic’s songs originate.
