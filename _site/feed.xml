@@ -3,10 +3,10 @@
   <channel>
     <title>Monkeyology</title>
     <description>A girly environmental science blog</description>
-    <link>http://localhost:4000/homepage/</link>
-    <atom:link href="http://localhost:4000/homepage/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 May 2023 21:41:13 -0700</pubDate>
-    <lastBuildDate>Mon, 15 May 2023 21:41:13 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 15 May 2023 21:46:33 -0700</pubDate>
+    <lastBuildDate>Mon, 15 May 2023 21:46:33 -0700</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -24,8 +24,8 @@
 &lt;p&gt;When I walk into a room now, I acknowledge that any ideas I bring to the table – about environmental science, environmental policy, whatever it may be – are not undermined by whether my makeup is too heavy or not.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 May 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/homepage/steminism/2023/05/08/my-experiences-with-feminism.html</link>
-        <guid isPermaLink="true">http://localhost:4000/homepage/steminism/2023/05/08/my-experiences-with-feminism.html</guid>
+        <link>http://localhost:4000/steminism/2023/05/08/my-experiences-with-feminism.html</link>
+        <guid isPermaLink="true">http://localhost:4000/steminism/2023/05/08/my-experiences-with-feminism.html</guid>
         
         <category>Feminism</category>
         
@@ -51,8 +51,8 @@
 &lt;p&gt;Think about all these situations. They are analogous to how people act, who will externalize costs to the environment or to the health of others so they can make more money, but who have also formed advocacy groups to protect other people and organisms. The controversies in environmental science and policy would not exist without the discourse between these separate groups. They exist because people have to fight between greed and compassion for every choice that we make.&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Apr 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/homepage/nikki's%20takedown/2023/04/27/the-driving-force-behind-environmental-science.html</link>
-        <guid isPermaLink="true">http://localhost:4000/homepage/nikki's%20takedown/2023/04/27/the-driving-force-behind-environmental-science.html</guid>
+        <link>http://localhost:4000/nikki's%20takedown/2023/04/27/the-driving-force-behind-environmental-science.html</link>
+        <guid isPermaLink="true">http://localhost:4000/nikki's%20takedown/2023/04/27/the-driving-force-behind-environmental-science.html</guid>
         
         <category>Opinion</category>
         
@@ -91,8 +91,8 @@ That’s why this section will be a shameless commentary on things like Legally 
 &lt;p&gt;You know those advice columns written in response to people nicknamed “worried girlfriend” and “boy with the blues?” This is basically that, but the environmental version. Send your questions to amonkeysworld@gmail.com or to monkeyology on Instagram. Letters from “concerned composter,” “biodiversity bro,” “precautionary polluter,” and the like will be greatly appreciated.&lt;/p&gt;
 </description>
         <pubDate>Thu, 27 Apr 2023 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/homepage/blog/2023/04/27/blog-introduction.html</link>
-        <guid isPermaLink="true">http://localhost:4000/homepage/blog/2023/04/27/blog-introduction.html</guid>
+        <link>http://localhost:4000/blog/2023/04/27/blog-introduction.html</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2023/04/27/blog-introduction.html</guid>
         
         
         <category>Blog</category>

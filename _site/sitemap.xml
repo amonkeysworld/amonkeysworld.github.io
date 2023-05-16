@@ -2,80 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://localhost:4000/homepage/steminism/2023/05/08/my-experiences-with-feminism.html</loc>
+        <loc>http://localhost:4000/steminism/2023/05/08/my-experiences-with-feminism.html</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/nikki's%20takedown/2023/04/27/the-driving-force-behind-environmental-science.html</loc>
+        <loc>http://localhost:4000/nikki's%20takedown/2023/04/27/the-driving-force-behind-environmental-science.html</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/blog/2023/04/27/blog-introduction.html</loc>
+        <loc>http://localhost:4000/blog/2023/04/27/blog-introduction.html</loc>
     </url>
 
 
     <url>
-        <loc>http://localhost:4000/homepage/404.html</loc>
+        <loc>http://localhost:4000/404.html</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/advicecolumn/</loc>
+        <loc>http://localhost:4000/advicecolumn/</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/bookreviews/</loc>
+        <loc>http://localhost:4000/bookreviews/</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/nikkistakedown/</loc>
+        <loc>http://localhost:4000/nikkistakedown/</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/podcastsummarized/</loc>
+        <loc>http://localhost:4000/podcastsummarized/</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/blog/</loc>
+        <loc>http://localhost:4000/blog/</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/static/css/custom.css</loc>
+        <loc>http://localhost:4000/static/css/custom.css</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/donate/</loc>
+        <loc>http://localhost:4000/donate/</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/feed.xml</loc>
+        <loc>http://localhost:4000/feed.xml</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/</loc>
+        <loc>http://localhost:4000/</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/python/</loc>
+        <loc>http://localhost:4000/python/</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/robots.txt</loc>
+        <loc>http://localhost:4000/robots.txt</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/search.json</loc>
+        <loc>http://localhost:4000/search.json</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/sitemap.xml</loc>
+        <loc>http://localhost:4000/sitemap.xml</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/steminism/</loc>
+        <loc>http://localhost:4000/steminism/</loc>
     </url>
 
     <url>
-        <loc>http://localhost:4000/homepage/assets/css/style.css</loc>
+        <loc>http://localhost:4000/assets/css/style.css</loc>
     </url>
 
 </urlset>
