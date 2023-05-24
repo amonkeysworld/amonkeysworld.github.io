@@ -13,7 +13,14 @@ I'm going to Italy this summer, and it's gonna be a HUGE adventure. The coffee s
 
 It's so much better for the environment, too. Data shared in the New York Times revealed the emissions patterns of people in America's cities, and a huge correlation was observed: near the inner city and in low-income areas, people tended to contribute a smaller emissions footprint.
 
-C:\Users\nicol\OneDrive\Desktop\climate map.jpg 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="static\assets\img\climate map.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Maps from the data about emissions patterns shared in the New York Times
+</div>
 
 This is because homes in the inner city are closer to shops (like I am to this coffee shop), and low-income people tend to buy less stuff. Let's explore these two factors further.
 
