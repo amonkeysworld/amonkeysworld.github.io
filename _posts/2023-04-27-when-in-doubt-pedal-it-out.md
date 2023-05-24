@@ -2,7 +2,7 @@
 layout: post
 title:  "When in Doubt, Pedal It Out: The Road to Sustainable Cities (And Living Your Amalfi Coast Dreams)"
 date:   2023-04-27
-desc: "Building walkable cities and reducing consumerism\n Article referenced: The Climate Impact of Your Neighborhood, Mapped by By Nadja Popovich, Mira Rojanasakul and Brad Plumer
+desc: "Building walkable cities and reducing consumerism"
 keywords: "website, blog"
 categories: [Nikki's takedown]
 tags: [Opinion]
@@ -32,3 +32,5 @@ Ultimately, though, moving from the suburbs or the outside of a city closer to t
 The big paradox when it comes to emission reduction practices is that the rich have the easiest means to reduce their emissions, but they have the largest footprint. This is because they can buy more stuff: among the super-rich, you'll find boats, cars, and planes. Why, though? The answer is seen in consumerism. People want more and more and more until their entire houses are full of things that add no happiness to their life. 
 
 Having money doesn't automatically mean somebody is destined to have a huge emissions footprint. You can do things on the individual level, like buy less stuff, and on the community level, like create initiatives in your neighborhood or community to use public transportation, walk, or consume less. You can lobby for your local government to invest more money into the transit system and for your local school to teach about environmental policy and climate change. Being an individual in a big sea of consumers doesn't mean there isn't anything to do. By educating yourself about the factors that affect your emissions footprint, reducing those factors, and forming or joining environmental initiatives, you can be part of something bigger than you.
+
+*Article referenced:* The Climate Impact of Your Neighborhood, Mapped *by Nadja Popovich, Mira Rojanasakul and Brad Plumer*
