@@ -22,6 +22,7 @@ It's so much better for the environment, too. Data shared in the New York Times 
     Maps from the data about emissions patterns shared in the New York Times
 </div>
 
+
 This is because homes in the inner city are closer to shops (like I am to this coffee shop), and low-income people tend to buy less stuff. Let's explore these two factors further.
 
 ## Proximity to the City Center
@@ -41,3 +42,4 @@ The big paradox when it comes to emission reduction practices is that the rich h
 Having money doesn't automatically mean somebody is destined to have a huge emissions footprint. You can do things on the individual level, like buy less stuff, and on the community level, like create initiatives in your neighborhood or community to use public transportation, walk, or consume less. You can lobby for your local government to invest more money into the transit system and for your local school to teach about environmental policy and climate change. Being an individual in a big sea of consumers doesn't mean there isn't anything to do. By educating yourself about the factors that affect your emissions footprint, reducing those factors, and forming or joining environmental initiatives, you can be part of something bigger than you.
 
 *Article referenced:* The Climate Impact of Your Neighborhood, Mapped *by Nadja Popovich, Mira Rojanasakul and Brad Plumer*
+https://www.nytimes.com/interactive/2022/12/13/climate/climate-footprint-map-neighborhood.html 
