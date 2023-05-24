@@ -2,7 +2,7 @@
 layout: post
 title:  "When in Doubt, Pedal It Out: The Road to Sustainable Cities (And Living Your Amalfi Coast Dreams)"
 date:   2023-04-27
-desc: "Building walkable cities and reducing consumerism\n Article referenced: *The Climate Impact of Your Neighborhood, Mapped* by By Nadja Popovich, Mira Rojanasakul and Brad Plumer"
+desc: "Building walkable cities and reducing consumerism\n Article referenced: The Climate Impact of Your Neighborhood, Mapped by By Nadja Popovich, Mira Rojanasakul and Brad Plumer
 keywords: "website, blog"
 categories: [Nikki's takedown]
 tags: [Opinion]
